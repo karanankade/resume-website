@@ -37,7 +37,14 @@ const resumeData = {
             provider: "Spoken Tutorial Project At IIT Bombay",
             duration: "August 2024",
             certificate: "certificates/PHP and MySQL.pdf"
+        },
+        {
+            name: "Microsoft Azure AI Essential Professional Certificate by Microsoft and LinkedIn",
+            provider: "Microsoft and LinkedIn",
+            duration: "July 14, 2025",
+            certificate: "certificates/CertificateOfCompletion_Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn.pdf"
         }
+
     ],
     languages: [
         { name: "English", level: "★★★★☆" },
