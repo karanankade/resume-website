@@ -43,10 +43,8 @@ const resumeData = {
             provider: "Microsoft and LinkedIn",
             duration: "July 14, 2025",
             certificate: "certificates/CertificateOfCompletion_Microsoft Azure AI Essentials Professional Certificate by Microsoft and LinkedIn.pdf"
-        }
-
-    ],
-     {
+        },
+        {
             name: "Business Analysis Foundations LinkedIn Learning",
             provider: " LinkedIn Learning",
             duration: "Aug 05, 2025",
@@ -54,6 +52,7 @@ const resumeData = {
         }
 
     ],
+        
     languages: [
         { name: "English", level: "★★★★☆" },
         { name: "Hindi", level: "★★★★☆" },
