@@ -46,6 +46,14 @@ const resumeData = {
         }
 
     ],
+     {
+            name: "Business Analysis Foundations LinkedIn Learning",
+            provider: " LinkedIn Learning",
+            duration: "Aug 05, 2025",
+            certificate: "Business Analysis Foundations.pdf"
+        }
+
+    ],
     languages: [
         { name: "English", level: "★★★★☆" },
         { name: "Hindi", level: "★★★★☆" },
