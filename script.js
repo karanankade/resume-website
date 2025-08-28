@@ -58,8 +58,6 @@ const resumeData = {
         }
 
     ],
-
-    ],
         
     languages: [
         { name: "English", level: "★★★★☆" },
