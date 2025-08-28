@@ -54,7 +54,7 @@ const resumeData = {
             name: "Cybersecurity Awareness Cybersecurity Terminology",
             provider: " LinkedIn Learning",
             duration: "Aug 27, 2025",
-            certificate: "certificates/Business Analysis Foundations.pdf"
+            certificate: "certificates/CertificateOfCompletion_Cybersecurity Awareness Cybersecurity Terminology.pdf"
         }
 
     ],
