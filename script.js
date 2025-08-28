@@ -56,7 +56,6 @@ const resumeData = {
             duration: "Aug 27, 2025",
             certificate: "certificates/CertificateOfCompletion_Cybersecurity Awareness Cybersecurity Terminology.pdf"
         }
-
     ],
         
     languages: [
