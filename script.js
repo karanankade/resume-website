@@ -75,7 +75,7 @@ const resumeData = {
             title: "MusicHub – Personal Music Streaming Experience",
             description: "Music Hub Music Hub is a simple and interactive web-based music player built using HTML, CSS, and JavaScript. It allows users to play, pause, and manage songs through a modern and responsive user interface.",
             technologies: ["HTML", "CSS", "JavaScript"],
-            github: "https://github.com/karanankade/music-hub",
+            github: "https://github.com/karanankade/music-Hub",
             liveDemo: "https://karanankade.github.io/Music-Hub/"
         },
         {
