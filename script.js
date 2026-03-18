@@ -66,7 +66,7 @@ const resumeData = {
     projects: [
         {
             title: "alandi-chikoo-growers",
-            description: "IThis project is a modern React application built with Vite for fast development and optimized performance. It uses TypeScript for type safety, Tailwind CSS for responsive styling, and shadcn-ui for clean and reusable UI components. The setup provides a simple and efficient starting point for building scalable frontend web applications.",
+            description: "This project is a modern React application built with Vite for fast development and optimized performance. It uses TypeScript for type safety, Tailwind CSS for responsive styling, and shadcn-ui for clean and reusable UI components. The setup provides a simple and efficient starting point for building scalable frontend web applications.",
             technologies: ["HTML", "CSS", "JavaScript", "React","Vite","TypeScript","Talwind CSS","shadcn-ui"],
             github: "https://github.com/karanankade/alandi-chikoo-growers",
             liveDemo: "https://alandi-chikoo-growers.vercel.app/"
@@ -77,6 +77,13 @@ const resumeData = {
             technologies: ["HTML", "CSS", "JavaScript", "React","Vite","TypeScript","Talwind CSS","shadcn-ui"],
             github: "https://github.com/karanankade/ip-navigator-main",
             liveDemo: "https://ip-navigator-main.vercel.app/"
+        },
+        {
+            title: "Email Header Analyzer",
+            description: "An interactive web app to analyze raw email headers: extract key fields, trace IP hops, geolocate public IPs, visualize the route on a map, and build a timeline. Includes login, a dashboard of past analyses, and CSV export.",
+            technologies: ["Python","HTML", "CSS", "JavaScript"],
+            github: "https://github.com/karanankade/Email-Header-Analyzer",
+            liveDemo: "https://email-header-analyzer-wh49.onrender.com/"
         },
         {
             title: "ShopHub - Premium E-Commerce Product Showcase",
