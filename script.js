@@ -65,6 +65,13 @@ const resumeData = {
     ],
     projects: [
         {
+            title: "IP Navigator",
+            description: "IP Navigator is a modern web application that provides useful tools for working with IP addresses. It helps users analyze, validate, and explore IP address information through a simple and user-friendly interface.",
+            technologies: ["HTML", "CSS", "JavaScript", "React","Vite","TypeScript","Talwind CSS","shadcn-ui"],
+            github: "https://github.com/karanankade/ip-navigator-main",
+            liveDemo: "https://ip-navigator-main.vercel.app/"
+        },
+        {
             title: "ShopHub - Premium E-Commerce Product Showcase",
             description: "A modern, responsive e-commerce website built with vanilla HTML, CSS, and JavaScript. Features a beautiful UI, smooth animations, and comprehensive shopping functionality.",
             technologies: ["HTML", "CSS", "JavaScript", "LocalStorage"],
