@@ -65,6 +65,13 @@ const resumeData = {
     ],
     projects: [
         {
+            title: "alandi-chikoo-growers",
+            description: "IThis project is a modern React application built with Vite for fast development and optimized performance. It uses TypeScript for type safety, Tailwind CSS for responsive styling, and shadcn-ui for clean and reusable UI components. The setup provides a simple and efficient starting point for building scalable frontend web applications.",
+            technologies: ["HTML", "CSS", "JavaScript", "React","Vite","TypeScript","Talwind CSS","shadcn-ui"],
+            github: "https://github.com/karanankade/alandi-chikoo-growers",
+            liveDemo: "https://alandi-chikoo-growers.vercel.app/"
+        },
+        {
             title: "IP Navigator",
             description: "IP Navigator is a modern web application that provides useful tools for working with IP addresses. It helps users analyze, validate, and explore IP address information through a simple and user-friendly interface.",
             technologies: ["HTML", "CSS", "JavaScript", "React","Vite","TypeScript","Talwind CSS","shadcn-ui"],
