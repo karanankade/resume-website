@@ -1,17 +1,23 @@
 // Resume Data
 const resumeData = {
     skills: [
-        { name: "MySQL", level: "★★★☆☆" },
-        { name: "Python", level: "★★★☆☆" },
-        { name: "PHP", level: "★★☆☆☆" },
-        { name: "SQL", level: "★★☆☆☆" },
-        { name: "Java", level: "★★☆☆☆" },
-        { name: "HTML/CSS/JavaScript", level: "★★★☆☆" },
-        { name: "C++", level: "★★★☆☆" },
-        { name: "MongoDB", level: "★★★☆☆" },
-        { name: "Express.js", level: "★★★☆☆" },
-        { name: "React.js", level: "★★★☆☆" },
-        { name: "Node.js", level: "★★★☆☆" }
+        { name: "MySQL" },
+        { name: "Python" },
+        { name: "PHP" },
+        { name: "SQL" },
+        { name: "Java" },
+        { name: "HTML/CSS/JavaScript"},
+        { name: "C++" },
+        { name: "MongoDB" },
+        { name: "Express.js" },
+        { name: "React.js"},
+        { name: "Node.js" },
+        { name: "UI-UX/APIs/Responsive Design" }, 
+        { name: "Skilled in networking basics including IP addressing/routing/subnetting/Linux" },
+        { name: "Experienced in using AI tools for web development" },
+        { name: "Skilled in AI-assisted web development./Using AI tools to speed up web development" },
+        { name: "AI-assisted website development experience." }
+        
     ],
     courses: [
         {
