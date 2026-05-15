@@ -92,7 +92,7 @@ const resumeData = {
             description: "IP Navigator is a modern web application that provides useful tools for working with IP addresses. It helps users analyze, validate, and explore IP address information through a simple and user-friendly interface.",
             technologies: ["HTML", "CSS", "JavaScript", "React","Vite","TypeScript","Talwind CSS","shadcn-ui"],
             github: "https://github.com/karanankade/ip-navigator-main",
-            liveDemo: "https://ip-navigator-main.vercel.app/"
+            liveDemo: "https://ip-navigator-six.vercel.app/"
         },
         {
             title: "Email Header Analyzer",
